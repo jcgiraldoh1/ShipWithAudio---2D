@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="132">
+	<RootPaths>
+		<ProjectRoot>C:\Users\juanl\Documents\NBCC\2D\Projects\ShipWithAudio\Blit3Dv3\TestAudio\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\juanl\Documents\NBCC\2D\Projects\ShipWithAudio\Blit3Dv3\TestAudio\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\juanl\Documents\NBCC\2D\Projects\ShipWithAudio\Blit3Dv3\TestAudio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\juanl\Documents\NBCC\2D\Projects\ShipWithAudio\Blit3Dv3\TestAudio\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="465867290" Language="SFX">
+			<ShortName>Audio.wav</ShortName>
+			<Path>SFX\Audio_8956FC97.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4113684158" Name="BMusic" ObjectPath="\Events\Default Work Unit\BMusic"/>
+				<Event Id="13776098" Name="Explosion" ObjectPath="\Events\Default Work Unit\Explosion"/>
+				<Event Id="2381981414" Name="LaserShot" ObjectPath="\Events\Default Work Unit\LaserShot"/>
+				<Event Id="2197345151" Name="Thrust" ObjectPath="\Events\Default Work Unit\Thrust"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="465867290"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="450141183" Language="SFX">
+					<ShortName>Laser_shoot.wav</ShortName>
+					<Path>SFX\Laser_shoot_56D34C19.wem</Path>
+				</File>
+				<File Id="617119369" Language="SFX">
+					<ShortName>Explosion.wav</ShortName>
+					<Path>SFX\Explosion_56D34C19.wem</Path>
+				</File>
+				<File Id="638661772" Language="SFX">
+					<ShortName>Engine.wav</ShortName>
+					<Path>SFX\Engine_8956FC97.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

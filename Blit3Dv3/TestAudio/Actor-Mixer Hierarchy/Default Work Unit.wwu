@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{705F389F-F2E4-4C04-96A7-B07273626DA9}" SchemaVersion="89">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{705F389F-F2E4-4C04-96A7-B07273626DA9}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Laser" ID="{040B1247-7C7E-4245-8E8B-088B6E02BD5F}" ShortID="831402717">
+					<PropertyList>
+						<Property Name="SpeakerPanning" Type="int16" Value="1"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A342711D-9989-4EB7-B58A-2185EAAE686A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{5048D7D4-E8C9-4014-9820-1BE592F73EAF}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Laser_shoot" ID="{2ABCCD0D-9161-49A7-BAF3-B8954B0571DA}" ShortID="450141183">
+							<Language>SFX</Language>
+							<AudioFile>Laser_shoot.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<PositioningInfo>
+						<Panner Name="" ID="{0C66CE89-0CBC-4F72-9A88-07CDB094BDBA}">
+							<PropertyList>
+								<Property Name="PanX" Type="Real64">
+									<RTPCList>
+										<RTPC Name="" ID="{97AF9612-D13B-47C9-998C-FE5C0EB551E4}" ShortID="411971316">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="Shipx" ID="{8E703C25-5FE3-4292-B6ED-F646D2A9A8DE}" WorkUnitID="{8EB99FAE-75BB-4C17-8DE5-2C59643A604F}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{5E53657A-48EB-4F0A-9D71-EB53140D5E6C}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="1"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-100</YPos>
+														<Flags>5</Flags>
+													</Point>
+													<Point>
+														<XPos>1920</XPos>
+														<YPos>100</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+							</PropertyList>
+						</Panner>
+					</PositioningInfo>
+					<ActiveSourceList>
+						<ActiveSource Name="Laser_shoot" ID="{2ABCCD0D-9161-49A7-BAF3-B8954B0571DA}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Explosion" ID="{A32DBCC8-7FAF-41DC-BC1F-511E3A1C919B}" ShortID="801354">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>-280</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>11</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A342711D-9989-4EB7-B58A-2185EAAE686A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{5048D7D4-E8C9-4014-9820-1BE592F73EAF}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Explosion" ID="{DC8B8611-A663-4275-A439-3705B4904134}" ShortID="617119369">
+							<Language>SFX</Language>
+							<AudioFile>Explosion.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Explosion" ID="{DC8B8611-A663-4275-A439-3705B4904134}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Engine" ID="{72754270-6528-4BB9-BE32-7E9F23F5E2A2}" ShortID="1445527">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="Pitch" Type="int32">
+							<RTPCList>
+								<RTPC Name="" ID="{B7255274-1B20-47A1-801C-57DD3C8BF7E3}" ShortID="410829007">
+									<ReferenceList>
+										<Reference Name="ControlInput">
+											<ObjectRef Name="Shipy" ID="{AF9A292A-57D4-4AAA-A1F3-5D11AB652771}" WorkUnitID="{8EB99FAE-75BB-4C17-8DE5-2C59643A604F}"/>
+										</Reference>
+									</ReferenceList>
+									<Curve Name="" ID="{B0B1AA2C-ACF7-4C88-B7F6-0FE82C142D14}">
+										<PropertyList>
+											<Property Name="Flags" Type="int32" Value="65537"/>
+										</PropertyList>
+										<PointList>
+											<Point>
+												<XPos>0</XPos>
+												<YPos>-1000</YPos>
+												<Flags>5</Flags>
+											</Point>
+											<Point>
+												<XPos>1080</XPos>
+												<YPos>1000</YPos>
+												<Flags>37</Flags>
+											</Point>
+										</PointList>
+									</Curve>
+								</RTPC>
+							</RTPCList>
+						</Property>
+						<Property Name="SpeakerPanning" Type="int16" Value="1"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A342711D-9989-4EB7-B58A-2185EAAE686A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{5048D7D4-E8C9-4014-9820-1BE592F73EAF}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Engine" ID="{76F4F290-BF53-4041-8D4B-2D0B6E3913E8}" ShortID="638661772">
+							<Language>SFX</Language>
+							<AudioFile>Engine.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<PositioningInfo>
+						<Panner Name="" ID="{B78C2ACA-9205-4B7A-99B4-A81583DD6F21}">
+							<PropertyList>
+								<Property Name="PanX" Type="Real64">
+									<RTPCList>
+										<RTPC Name="" ID="{03C5A5C1-A9BB-45F5-9BEA-35DC8DED8755}" ShortID="420877320">
+											<ReferenceList>
+												<Reference Name="ControlInput">
+													<ObjectRef Name="Shipx" ID="{8E703C25-5FE3-4292-B6ED-F646D2A9A8DE}" WorkUnitID="{8EB99FAE-75BB-4C17-8DE5-2C59643A604F}"/>
+												</Reference>
+											</ReferenceList>
+											<Curve Name="" ID="{C271AAAB-E4DB-4DF4-8A29-0AB52A26ED65}">
+												<PropertyList>
+													<Property Name="Flags" Type="int32" Value="1"/>
+												</PropertyList>
+												<PointList>
+													<Point>
+														<XPos>0</XPos>
+														<YPos>-100</YPos>
+														<Flags>5</Flags>
+													</Point>
+													<Point>
+														<XPos>1920</XPos>
+														<YPos>100</YPos>
+														<Flags>37</Flags>
+													</Point>
+												</PointList>
+											</Curve>
+										</RTPC>
+									</RTPCList>
+								</Property>
+							</PropertyList>
+						</Panner>
+					</PositioningInfo>
+					<ActiveSourceList>
+						<ActiveSource Name="Engine" ID="{76F4F290-BF53-4041-8D4B-2D0B6E3913E8}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Audio" ID="{BD1E8A31-8188-47B7-8497-2CEB9D2DE712}" ShortID="938441862">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="IsNonCachable" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-10</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A342711D-9989-4EB7-B58A-2185EAAE686A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{5048D7D4-E8C9-4014-9820-1BE592F73EAF}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Audio" ID="{79A03486-51F3-4675-9803-749DAF64DA5A}" ShortID="465867290">
+							<Language>SFX</Language>
+							<AudioFile>Audio.wav</AudioFile>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Audio" ID="{79A03486-51F3-4675-9803-749DAF64DA5A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

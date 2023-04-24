@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9092C77C-BC2F-49DB-826E-A2AD2487DCE9}" SchemaVersion="89">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{9092C77C-BC2F-49DB-826E-A2AD2487DCE9}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{4795A3E6-5993-4DE3-AAE0-87598BCA8DDC}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Explosion" ID="{A49C566A-2854-44FB-81DE-BA29BC07F433}" WorkUnitID="{4312927A-3158-455B-9ACA-E00496248082}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Thrust" ID="{544F6966-067C-480C-8605-B6B7C0EA67D2}" WorkUnitID="{4312927A-3158-455B-9ACA-E00496248082}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="LaserShot" ID="{5E46B7EB-D68A-48EA-BB7B-2A4FBCAF25DE}" WorkUnitID="{4312927A-3158-455B-9ACA-E00496248082}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="BMusic" ID="{0A4B490F-1F07-4DC2-B62C-8E041EF4904B}" WorkUnitID="{4312927A-3158-455B-9ACA-E00496248082}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

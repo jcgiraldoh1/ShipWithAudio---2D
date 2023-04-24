@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8EB99FAE-75BB-4C17-8DE5-2C59643A604F}" SchemaVersion="89">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{8EB99FAE-75BB-4C17-8DE5-2C59643A604F}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Shipx" ID="{8E703C25-5FE3-4292-B6ED-F646D2A9A8DE}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="950"/>
+						<Property Name="Max" Type="Real64" Value="1920"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Shipy" ID="{AF9A292A-57D4-4AAA-A1F3-5D11AB652771}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="540"/>
+						<Property Name="Max" Type="Real64" Value="1080"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

@@ -1,0 +1,18 @@
+Event	ID	Name			Wwise Object Path	Notes
+	13776098	Explosion			\Default Work Unit\Explosion	
+	2197345151	Thrust			\Default Work Unit\Thrust	
+	2381981414	LaserShot			\Default Work Unit\LaserShot	
+	4113684158	BMusic			\Default Work Unit\BMusic	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2753384924	Shipy			\Default Work Unit\Shipy	
+	2753384925	Shipx			\Default Work Unit\Shipx	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	450141183	Laser	C:\Users\juanl\Documents\NBCC\2D\Projects\ShipWithAudio\Blit3Dv3\TestAudio\.cache\Windows\SFX\Laser_shoot_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laser		9768
+	617119369	Explosion	C:\Users\juanl\Documents\NBCC\2D\Projects\ShipWithAudio\Blit3Dv3\TestAudio\.cache\Windows\SFX\Explosion_56D34C19.wem		\Actor-Mixer Hierarchy\Default Work Unit\Explosion		46810
+	638661772	Engine	C:\Users\juanl\Documents\NBCC\2D\Projects\ShipWithAudio\Blit3Dv3\TestAudio\.cache\Windows\SFX\Engine_8956FC97.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine		441064
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	465867290	Audio	C:\Users\juanl\Documents\NBCC\2D\Projects\ShipWithAudio\Blit3Dv3\TestAudio\.cache\Windows\SFX\Audio_8956FC97.wem	465867290.wem	\Actor-Mixer Hierarchy\Default Work Unit\Audio	
+

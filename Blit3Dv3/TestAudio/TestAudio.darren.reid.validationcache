@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="89">
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1614882520" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Attenuations\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Audio Devices\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Control Surface Sessions\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Conversion Settings\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1584011708" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Effects\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Effects\Factory Effects.wwu" DateLow="1584011708" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Events\Default Work Unit.wwu" DateLow="1614882520" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Game Parameters\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Mixing Sessions\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Modulators\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Presets\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Queries\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Queries\Factory Queries.wwu" DateLow="1584011708" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\SoundBanks\Default Work Unit.wwu" DateLow="1614882520" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\States\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Switches\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\TestAudio.darren.reid.wsettings" DateLow="1615487698" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\TestAudio.wproj" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Triggers\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\ShipWithAudio\Blit3Dv3\TestAudio\Virtual Acoustics\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1614882520" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Attenuations\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Audio Devices\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Control Surface Sessions\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Conversion Settings\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1584011708" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Effects\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Effects\Factory Effects.wwu" DateLow="1584011708" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Events\Default Work Unit.wwu" DateLow="1614882520" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Game Parameters\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Mixing Sessions\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Modulators\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Presets\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Queries\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Queries\Factory Queries.wwu" DateLow="1584011708" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\SoundBanks\Default Work Unit.wwu" DateLow="1614882520" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\States\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Switches\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\TestAudio.darren.reid.wsettings" DateLow="1614882524" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\TestAudio.wproj" DateLow="1614880469" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Triggers\Default Work Unit.wwu" DateLow="1614880470" DateHigh="0"/>
+	<ValidationCacheItem File="D:\TempProjects\TestAudio\Virtual Acoustics\Default Work Unit.wwu" DateLow="1614880469" DateHigh="0"/>
+</ValidationCache>
